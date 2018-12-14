@@ -17,6 +17,9 @@ public class TypeConversionDemo {
 		System.out.println(d);
 		
 		
+		float e = (float)100.0;  //Explicit conversion
+		int f = (int) 100.0F;	 //Explicit conversion
+		
 		
 	}
 
